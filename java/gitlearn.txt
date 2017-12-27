@@ -8,4 +8,4 @@ dev add a line
 
 sandu add something 12/27
 
-sandu add something in sandu repo in sanu master branch,push to origin dev branch
+sandu add something in sandu repo in sanu dev branch,push to origin dev branch
